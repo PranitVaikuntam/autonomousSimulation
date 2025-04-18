@@ -1,0 +1,45 @@
+[1.081s] Invoking command in '/home/pranitvaikuntam/workspace/autonomousSimulation/src/ai_drive': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ai_drive build --build-base /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build install --record /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/install.log --single-version-externally-managed install_data
+[1.275s] running egg_info
+[1.275s] creating ../../build/ai_drive/ai_drive.egg-info
+[1.285s] writing ../../build/ai_drive/ai_drive.egg-info/PKG-INFO
+[1.285s] writing dependency_links to ../../build/ai_drive/ai_drive.egg-info/dependency_links.txt
+[1.285s] writing entry points to ../../build/ai_drive/ai_drive.egg-info/entry_points.txt
+[1.288s] writing requirements to ../../build/ai_drive/ai_drive.egg-info/requires.txt
+[1.288s] writing top-level names to ../../build/ai_drive/ai_drive.egg-info/top_level.txt
+[1.288s] writing manifest file '../../build/ai_drive/ai_drive.egg-info/SOURCES.txt'
+[1.306s] reading manifest file '../../build/ai_drive/ai_drive.egg-info/SOURCES.txt'
+[1.306s] adding license file 'LICENSE'
+[1.306s] writing manifest file '../../build/ai_drive/ai_drive.egg-info/SOURCES.txt'
+[1.306s] running build
+[1.309s] running build_py
+[1.309s] creating /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build
+[1.309s] creating /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib
+[1.309s] creating /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive
+[1.309s] copying ai_drive/basic_movement copy.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive
+[1.309s] copying ai_drive/sensor.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive
+[1.309s] copying ai_drive/basic_movement.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive
+[1.309s] copying ai_drive/__init__.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive
+[1.309s] running install
+[1.312s] running install_lib
+[1.322s] creating /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive
+[1.322s] copying /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive/basic_movement copy.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive
+[1.322s] copying /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive/sensor.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive
+[1.322s] copying /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive/basic_movement.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive
+[1.322s] copying /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive/__init__.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive
+[1.323s] byte-compiling /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive/basic_movement copy.py to basic_movement copy.cpython-312.pyc
+[1.323s] byte-compiling /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive/sensor.py to sensor.cpython-312.pyc
+[1.323s] byte-compiling /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive/basic_movement.py to basic_movement.cpython-312.pyc
+[1.323s] byte-compiling /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive/__init__.py to __init__.cpython-312.pyc
+[1.323s] running install_data
+[1.323s] creating /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/share/ament_index
+[1.323s] creating /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/share/ament_index/resource_index
+[1.323s] creating /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/share/ament_index/resource_index/packages
+[1.323s] copying resource/ai_drive -> /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/share/ament_index/resource_index/packages
+[1.323s] copying package.xml -> /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/share/ai_drive
+[1.323s] running install_egg_info
+[1.349s] Copying ../../build/ai_drive/ai_drive.egg-info to /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive-0.0.0-py3.12.egg-info
+[1.349s] running install_scripts
+[1.441s] Installing basic_movement script to /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/ai_drive
+[1.441s] Installing sensor script to /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/ai_drive
+[1.442s] writing list of installed files to '/home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/install.log'
+[1.461s] Invoked command in '/home/pranitvaikuntam/workspace/autonomousSimulation/src/ai_drive' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ai_drive build --build-base /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build install --record /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/install.log --single-version-externally-managed install_data

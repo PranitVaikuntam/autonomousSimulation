@@ -1,0 +1,43 @@
+running egg_info
+creating ../../build/ai_drive/ai_drive.egg-info
+writing ../../build/ai_drive/ai_drive.egg-info/PKG-INFO
+writing dependency_links to ../../build/ai_drive/ai_drive.egg-info/dependency_links.txt
+writing entry points to ../../build/ai_drive/ai_drive.egg-info/entry_points.txt
+writing requirements to ../../build/ai_drive/ai_drive.egg-info/requires.txt
+writing top-level names to ../../build/ai_drive/ai_drive.egg-info/top_level.txt
+writing manifest file '../../build/ai_drive/ai_drive.egg-info/SOURCES.txt'
+reading manifest file '../../build/ai_drive/ai_drive.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/ai_drive/ai_drive.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build
+creating /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib
+creating /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive
+copying ai_drive/basic_movement copy.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive
+copying ai_drive/sensor.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive
+copying ai_drive/basic_movement.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive
+copying ai_drive/__init__.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive
+running install
+running install_lib
+creating /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive
+copying /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive/basic_movement copy.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive
+copying /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive/sensor.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive
+copying /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive/basic_movement.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive
+copying /home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/build/lib/ai_drive/__init__.py -> /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive
+byte-compiling /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive/basic_movement copy.py to basic_movement copy.cpython-312.pyc
+byte-compiling /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive/sensor.py to sensor.cpython-312.pyc
+byte-compiling /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive/basic_movement.py to basic_movement.cpython-312.pyc
+byte-compiling /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/share/ament_index
+creating /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/share/ament_index/resource_index
+creating /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/share/ament_index/resource_index/packages
+copying resource/ai_drive -> /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/share/ament_index/resource_index/packages
+copying package.xml -> /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/share/ai_drive
+running install_egg_info
+Copying ../../build/ai_drive/ai_drive.egg-info to /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/python3.12/site-packages/ai_drive-0.0.0-py3.12.egg-info
+running install_scripts
+Installing basic_movement script to /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/ai_drive
+Installing sensor script to /home/pranitvaikuntam/workspace/autonomousSimulation/install/ai_drive/lib/ai_drive
+writing list of installed files to '/home/pranitvaikuntam/workspace/autonomousSimulation/build/ai_drive/install.log'

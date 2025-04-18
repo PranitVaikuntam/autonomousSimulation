@@ -1,0 +1,3 @@
+[console_scripts]
+basic_movement = ai_drive.basic_movement:main
+sensor = ai_drive.sensor:main
